@@ -1,7 +1,6 @@
 **/.DS_Store
 *.sln
 *.csproj
-*.meta
 .vscode
 .collabignore
 Logs
