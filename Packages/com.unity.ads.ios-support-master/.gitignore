@@ -1,0 +1,12 @@
+*.sln
+*.sln*
+*.csproj
+*.csproj*
+*.DS_Store
+JetBrains*
+.idea/
+Library/
+Temp/
+Logs/
+obj/
+ProjectVersion.txt
