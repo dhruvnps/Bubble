@@ -8,5 +8,4 @@
   
 #
 
-> Unity version - 2020.1.0f1  
-> [Privacy policy](https://dhruvnps.github.io/privacy-policies/boggle.html)
+> Unity version - 2020.1.0f1
