@@ -19,20 +19,12 @@
       "source": "builtin",
       "dependencies": {}
     },
-    "com.unity.ads": {
-      "version": "3.4.7",
+    "com.unity.ads.ios-support": {
+      "version": "1.2.0",
       "depth": 0,
       "source": "registry",
-      "dependencies": {
-        "com.unity.ugui": "1.0.0"
-      },
+      "dependencies": {},
       "url": "https://packages.unity.com"
-    },
-    "com.unity.ads.ios-support": {
-      "version": "file:com.unity.ads.ios-support-master/com.unity.ads.ios-support",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
     },
     "com.unity.analytics": {
       "version": "3.3.5",
@@ -51,7 +43,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
-      "version": "1.0.0",
+      "version": "1.0.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -74,32 +66,25 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.vscode": {
-      "version": "1.2.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.purchasing": {
-      "version": "2.0.6",
+      "version": "1.2.5",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.14",
+      "version": "1.1.33",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.ext.nunit": "1.0.0",
+        "com.unity.ext.nunit": "1.0.6",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.0-preview.1",
+      "version": "3.0.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
